@@ -1,4 +1,4 @@
-%% Exportador MAT2CSV 
+%% Exportador Mat2Csv 
 % Programa de Pós Graduação em Engenharia Elétrica e Telecomunicações
 % LACOP - Laboratório de Comunicações Óticas - UFF & CEFET/RJ
 % Doutorando : Márcio Alexandre Dias Garrido
